@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.CDMz6GEI.js";const o=JSON.parse('{"title":"事件循环","description":"","frontmatter":{},"headers":[],"relativePath":"event-loop.md","filePath":"event-loop.md"}'),e={name:"event-loop.md"},p=n("",12),t=[p];function l(h,k,d,E,r,c){return a(),i("div",null,t)}const y=s(e,[["render",l]]);export{o as __pageData,y as default};

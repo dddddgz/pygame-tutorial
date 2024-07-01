@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.CDMz6GEI.js";const y=JSON.parse('{"title":"写一个动画","description":"","frontmatter":{},"headers":[],"relativePath":"animation1.md","filePath":"animation1.md"}'),p={name:"animation1.md"},e=n("",12),h=[e];function l(t,k,E,d,r,g){return a(),i("div",null,h)}const o=s(p,[["render",l]]);export{y as __pageData,o as default};
