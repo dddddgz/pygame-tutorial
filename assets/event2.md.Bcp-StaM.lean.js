@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.CDMz6GEI.js";const o=JSON.parse('{"title":"事件检测","description":"","frontmatter":{},"headers":[],"relativePath":"event2.md","filePath":"event2.md"}'),t={name:"event2.md"},h=n("",15),p=[h];function e(l,k,E,r,d,g){return a(),i("div",null,p)}const c=s(t,[["render",e]]);export{o as __pageData,c as default};

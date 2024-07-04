@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as h}from"./chunks/framework.CDMz6GEI.js";const F=JSON.parse('{"title":"Sprite（1）","description":"","frontmatter":{},"headers":[],"relativePath":"animation2.md","filePath":"animation2.md"}'),k={name:"animation2.md"},n=h("",19),l=[n];function p(t,e,E,d,r,g){return a(),i("div",null,l)}const c=s(k,[["render",p]]);export{F as __pageData,c as default};
